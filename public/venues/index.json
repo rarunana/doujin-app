@@ -1,0 +1,5 @@
+[
+  {"file":"trc-gsf.csv","name":"東京流通センター(GSF/SSF基準)","note":"基礎になる配置。1組〜13組・ARENA[A]〜[F]"},
+  {"file":"gsf04-ssf11.csv","name":"GSF04/SSF11(東京流通センター)","note":"GSF04の配置図に合わせた 1組〜11組・ARENA[ア]〜[カ](11組とARENA[ア]は同じ島の左右)"},
+  {"files":["comiket-east123.csv","comiket-east7.csv","comiket-west.csv","comiket-south.csv"],"name":"コミックマーケット(東京ビッグサイト)","note":"東1〜3・東7・西・南を、1日の中の別々のシートとしてまとめて追加します"}
+]
